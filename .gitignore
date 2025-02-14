@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Text backup files
+zsh:1: command not found: q
+
+#Text backup files
+*.bak
+
+# Database
+*.sqlite3
+zsh:1: command not found: wq
